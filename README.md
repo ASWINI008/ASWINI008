@@ -1,9 +1,6 @@
-<!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=230&section=header&text=ASWINI%20S&fontSize=48&fontColor=ffffff&animation=fadeIn" />
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00A8FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Python+Developer;Machine+Learning+Learner;React+%7C+Django+%7C+Flask;Competitive+Programmer;Always+Improving!">
-</h3>
+<!-- Static Header (No Animation) -->
+<h1 align="center">ASWINI S</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
@@ -13,7 +10,7 @@
 - 🤖 Passionate about **Machine Learning & Deep Learning**
 - 🧠 Strong interest in **DSA & Competitive Programming**
 - 🌱 Currently learning **React, DSA & Neural Networks**
-- 🎯 Goal: Become a Software Engineer & build impactful real-world solutions
+- 🎯 Goal: Become a Software Engineer & build impactful real-world projects
 
 ---
 
@@ -31,33 +28,54 @@
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+### 🧰 Tools I Use
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 
 ---
 
-## 🏆 Competitive Programming Achievements
+## 🔧 Technical Skills
 
-- ✔ **1698+ coding questions solved** across platforms  
-- ✔ **280+ active coding days**  
-- ✔ **107 contests participated**  
-- ✔ **1539 problems solved on CodeChef**  
-- ✔ LeetCode Rank: **1234**  
-- ✔ CodeChef Rank: **1148**  
-- ✔ **1000 Problems Solved Badge**  
-- ✔ **50 Days Badge (2025)**  
-- ✔ **100 Days Coding Streak Badge**
+- **Programming:** C, C++, Java, Python  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
+- **Backend:** Django, Flask  
+- **Databases:** MySQL, MongoDB  
+- **API Testing:** Postman (Basic)  
+- **Developer Tools:** GitHub, VS Code  
 
 ---
 
-## 🧠 LeetCode Stats (NEW)
+## 💼 Professional Skills
+
+- Problem-Solving & Logical Thinking  
+- Debugging & Code Optimization  
+- Adaptability & Fast Learning  
+- Time Management & Task Ownership  
+- Team Collaboration & Communication  
+- Clean Code Practices  
+- Ability to Work Independently  
+
+---
+
+## 🧠 LeetCode Stats
 
 <p align="center">
   <img 
-       src="https://leetcard.jacoblin.cool/aswini?theme=light&font=Karma&ext=heatmap&border=0&radius=10&show_rank=true" 
+       src="https://leetcard.jacoblin.cool/aswini_008?theme=light&font=Karma&ext=heatmap&border=0&radius=10&show_rank=true" 
        width="380"
   />
 </p>
+
+### 🔹 My Real LeetCode Progress  
+- **Total Solved:** 92  
+- **Easy:** 69 / 916  
+- **Medium:** 22 / 1966  
+- **Hard:** 1 / 891  
+- **Contest Rating:** 1235  
+- **Top Percentage:** 99.01%  
+- **Global Rank:** 788,941 / 796,958  
+- **Contests Attended:** 24  
+- **Submissions (1 Year):** 125  
+- **Recent Badge:** *50 Days Badge 2025*
 
 ---
 
@@ -100,37 +118,6 @@
 
 ---
 
-## 📊 GitHub Stats (For Username: **ASWINI008**)
-
-### 🔥 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASWINI008&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-### 📈 GitHub Analytics
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ASWINI008&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINI008&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASWINI008&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASWINI008&theme=algolia&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aswini-s-5573ba2a5">
@@ -144,9 +131,6 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to star my repositories! ⭐ <br>
-  Thank you for visiting 😊
+  ⭐ If you like my work, feel free to star my repositories! ⭐  
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer" />
