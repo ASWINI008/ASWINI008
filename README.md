@@ -55,42 +55,35 @@ Currently exploring Machine Learning and Neural Networks while strengthening Dat
 ### 1️⃣ DR_EfficientNet  
 **Tech:** Python, Deep Learning  
 **Description:** Retinal disease prediction using EfficientNet CNN architecture.  
-**Repo:** *(add link)*  
+
 
 ---
 
 ### 2️⃣ Portfolio Website  
 **Tech:** HTML, CSS, JavaScript  
 **Description:** A personal portfolio built to showcase my skills, projects, and achievements.  
-**Repo:** *(add link)*  
+
 
 ---
 
 ### 3️⃣ TO-DO-LIST  
 **Tech:** HTML, CSS, JavaScript  
 **Description:** A modern task management application with smooth UI and local storage features.  
-**Repo:** *(add link)*  
+ 
 
 ---
 
 ### 4️⃣ Restaurant Website (JavaScript Version)  
 **Tech:** HTML, CSS, JavaScript  
 **Description:** Interactive restaurant website with menu sections and responsive UI.  
-**Repo:** *(add link)*  
+
 
 ---
 
 ### 5️⃣ Restaurant Website (HTML Version)  
 **Tech:** HTML, CSS  
 **Description:** Simple and clean homepage layout for a restaurant.  
-**Repo:** *(add link)*  
-
----
-
-### 6️⃣ Internship Tasks  
-**Tech:** HTML, CSS  
-**Description:** A collection of assignments and mini projects completed during internship training.  
-**Repo:** *(add link)*  
+  
 
 ---
 
