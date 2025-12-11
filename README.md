@@ -1,12 +1,12 @@
-# ASWINI S  
-### Full Stack Developer  
+<h1 align="center">ASWINI S</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
 I am a passionate Full Stack Developer skilled in building modern, responsive, and efficient applications using React, Django, and Flask.  
-I enjoy solving problems, learning new technologies, and creating real-world projects.  
-Currently exploring Machine Learning and Neural Networks while improving my DSA skills.
+I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.  
+Currently exploring Machine Learning and Neural Networks while strengthening Data Structures and Algorithms.
 
 ---
 
@@ -40,8 +40,8 @@ Currently exploring Machine Learning and Neural Networks while improving my DSA 
 
 ## 💼 Professional Skills
 - Strong Problem-Solving  
-- Logical & Analytical Thinking  
 - Debugging & Code Optimization  
+- Logical & Analytical Thinking  
 - Time Management  
 - Team Collaboration  
 - Clean Code Practices  
@@ -68,36 +68,37 @@ Currently exploring Machine Learning and Neural Networks while improving my DSA 
 
 ### 3️⃣ TO-DO-LIST  
 **Tech:** HTML, CSS, JavaScript  
-**Description:** A modern task management application with smooth UI and local storage.  
+**Description:** A modern task management application with smooth UI and local storage features.  
 **Repo:** *(add link)*  
 
 ---
 
 ### 4️⃣ Restaurant Website (JavaScript Version)  
 **Tech:** HTML, CSS, JavaScript  
-**Description:** Interactive South Indian restaurant website with menu sections and responsive design.  
+**Description:** Interactive restaurant website with menu sections and responsive UI.  
 **Repo:** *(add link)*  
 
 ---
 
 ### 5️⃣ Restaurant Website (HTML Version)  
 **Tech:** HTML, CSS  
-**Description:** A basic yet clean restaurant homepage layout.  
+**Description:** Simple and clean homepage layout for a restaurant.  
 **Repo:** *(add link)*  
 
 ---
 
 ### 6️⃣ Internship Tasks  
 **Tech:** HTML, CSS  
-**Description:** A collection of tasks and mini projects completed during internship training.  
+**Description:** A collection of assignments and mini projects completed during internship training.  
 **Repo:** *(add link)*  
 
 ---
 
 ## 📬 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/aswini-s-5573ba2a5  
-**Email:** kit27.cse08@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/aswini-s-5573ba2a5  
+- **Email:** kit27.cse08@gmail.com  
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories.*  
+<p align="center">⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories. ⭐</p>
+
