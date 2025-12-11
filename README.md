@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aswini S</h1>
-<h3 align="center">Full Stack Developer | Python Enthusiast | Competitive Programmer</h3>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=230&section=header&text=ASWINI%20S&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00A8FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Python+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;Passionate+Tech+Explorer" />
+</h3>
 
 ---
 
@@ -15,19 +19,33 @@
 ## 🛠️ Skills
 
 ### **Programming Languages**
-- C, C++, Java, Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frontend Development**
-- HTML, CSS, JavaScript, React.js
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### **Backend Development**
-- Django, Flask, Node.js, Express.js
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Databases**
-- SQL, MongoDB
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools**
-- Git, GitHub, VS Code, Postman, Figma
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -84,7 +102,7 @@
 
 ### 🔹 **Internship Tasks**
 **Tech:** HTML, CSS  
-**Description:** Tasks and assignments completed during internship  
+**Description:** Tasks completed during internship  
 **Repo:** *(add link here)*  
 
 ---
@@ -92,7 +110,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aswini&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aswini&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -105,6 +123,13 @@
 
 ---
 
+## 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aswini&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 - 🔗 **LinkedIn:** [Aswini S](https://www.linkedin.com/in/aswini-s-5573ba2a5)  
@@ -112,5 +137,10 @@
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**  
-Feel free to ⭐ star my repositories if you like them 😊
+<p align="center">
+  ⭐ **Thanks for visiting my GitHub profile! Feel free to star my repositories if you like them.** ⭐
+</p>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer" />
+
